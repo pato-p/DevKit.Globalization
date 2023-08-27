@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <EnableNETAnalyzers>true</EnableNETAnalyzers>  
+    <AnalysisLevel>latest-All</AnalysisLevel>  
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>  
+    <Authors>pato_p</Authors>  
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>  
+    <Description>Provides methods for culture-independent parsing and formatting.</Description>  
+    <PackageProjectUrl></PackageProjectUrl>  
+    <RepositoryUrl>https://github.com/pato-p/DevKit.Globalization</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
